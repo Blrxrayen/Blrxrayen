@@ -1,4 +1,4 @@
-👋 Hello, I'm Blurxrayen
+👋 Hello, I'm Blrxrayen
 - 👀 I'm interested in hacking
 - 🌱 I'm currently learning programming
 - 💞️ I am looking forward to cooperating in the field of programming
